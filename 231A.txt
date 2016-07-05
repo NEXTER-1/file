@@ -10,7 +10,7 @@ int main() {
 	    sum=a+b+c;
 	    if(sum>=2)
 	    count++;
-	    sum=0;
+	    
 	    t--;
 	}
 	cout<<count;
